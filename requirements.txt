@@ -1,7 +1,7 @@
 ﻿joblib==1.1.0
 matplotlib-inline==0.1.3
 numpy==1.20.0
-pandas==1.4.2
+pandas==1.3.5
 pickleshare==0.7.5
 scikit-learn==1.0.2
 sklearn==0.0
