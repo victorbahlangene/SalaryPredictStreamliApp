@@ -1,8 +1,8 @@
-﻿joblib==1.1.0
-matplotlib-inline==0.1.3
-numpy==1.20.0
-pandas==1.3.5
-pickleshare==0.7.5
-scikit-learn==1.0.2
-sklearn==0.0
-streamlit==1.8.1
+joblib
+matplotlib-inline
+numpy
+pandas
+pickleshare
+scikit-learn
+sklearn
+streamlit
